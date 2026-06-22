@@ -1,0 +1,21 @@
+# Keil generated files
+MDK-ARM/**/Objects/
+MDK-ARM/**/Listings/
+MDK-ARM/**/DebugConfig/
+*.uvguix.*
+*.bak
+*.dep
+*.d
+*.o
+*.crf
+*.axf
+*.hex
+*.map
+*.lst
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VSCode
+.vscode/
